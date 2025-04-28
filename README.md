@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.png](Resources/DashboardGIF.gif)
+![DashboardGIF.gif](Resources/DashboardGIF.gif)
 
 ## Introduction
 
@@ -34,7 +34,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Chart1.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="Resources/Dashboard4.jpg" alt="Salary Dashboard Chart1">
 
 - 🛠️ **Excel Techniques:** Built a horizontal bar chart with tailored formatting to present salary figures more intuitively.
 - 🎨 **Design Thinking::** Selected a horizontal layout to simplify the comparison between different job titles.
@@ -43,7 +43,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
+![1_Salary_Dashboard_Country_Map.gif](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
 
 - 🛠️ **Excel Techniques:** Applied Excel’s map chart to translate country-based salary data into a visual format.
 - 🎨 **Design Thinking::** Used color intensity to instantly reflect variations in median salaries across different countries.
@@ -65,24 +65,11 @@ The dataset used for this project contains real-world data science job informati
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)   - Dashboard 2
-
-#### ⏰ Count of Job Schedule Type
-
-```
-=FILTER(J2#,(NOT(ISNUMBER(SEARCH("and",J2#))+ISNUMBER(SEARCH(",",J2#))))*(J2#<>0))
-```
-
-- 🔍 **Unique List Generation:** This Excel formula below employs the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
-- 🔢 **Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
-
-🍽️ Background Table
-
-![Dashboard3.jpg](Resources/Dashboard3.jpg)
+![Dashboard2.jpg](Resources/Dashboard2.jpg) 
 
 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+![Dashboard3.jpg](Resources/Dashboard3.jpg)
 
 ### ❎ Data Validation
 
