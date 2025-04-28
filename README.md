@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![1_Salary_Dashboard.png](Resources/DashboardGIF.gif)
+![DashboardGIF.gif](Resources/DashboardGIF.gif)
 
 ## Introduction
 
@@ -43,7 +43,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
+![1_Salary_Dashboard_Country_Map.gif](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
 
 - 🛠️ **Excel Techniques:** Applied Excel’s map chart to translate country-based salary data into a visual format.
 - 🎨 **Design Thinking::** Used color intensity to instantly reflect variations in median salaries across different countries.
@@ -65,7 +65,7 @@ The dataset used for this project contains real-world data science job informati
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)   - Dashboard 2
+![Dashboard2.jpg](Resources/Dashboard2.jpg) 
 
 #### ⏰ Count of Job Schedule Type
 
