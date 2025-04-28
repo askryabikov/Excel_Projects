@@ -78,7 +78,7 @@ The dataset used for this project contains real-world data science job informati
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](Resources/Dashboard3.jpg)
+![Dashboard3.jpg](Resources/Dashboard3.jpg)
 
 📉 Dashboard Implementation:
 
