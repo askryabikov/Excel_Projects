@@ -82,7 +82,7 @@ The dataset used for this project contains real-world data science job informati
 
 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="250" height="500" alt="Salary Dashboard Type">
 
 ### ❎ Data Validation
 
