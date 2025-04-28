@@ -65,11 +65,7 @@ The dataset used for this project contains real-world data science job informati
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
-
-📉 Dashboard Implementation
-
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)   - Dashboard 2
 
 #### ⏰ Count of Job Schedule Type
 
@@ -78,7 +74,7 @@ The dataset used for this project contains real-world data science job informati
 ```
 
 - 🔍 **Unique List Generation:** This Excel formula below employs the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
-- **🔢 Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
+- 🔢 **Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
 
 🍽️ Background Table
 
@@ -101,4 +97,4 @@ The dataset used for this project contains real-world data science job informati
 
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+This dashboard provides a clear view of the demand for each data-related career path. Through the use of dynamic filters, users can instantly explore salary levels, job availability, and employment types across different countries and roles. It allows for quick comparisons between job titles, highlights regional salary variations, and helps identify the most promising opportunities within the field of data science. The interactive layout ensures a smooth user experience, making it easy to spot trends and make informed career decisions at a glance.
