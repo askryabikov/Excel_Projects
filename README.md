@@ -75,12 +75,11 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🔍 Filtered List
 
-- 🔒 **Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
-    - 🎯 User input is restricted to predefined, validated schedule types
-    - 🚫 Incorrect or inconsistent entries are prevented
-    - 👥 Overall usability of the dashboard is enhanced
-
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+- 🔒 **Enhanced Data Validation:** A filtered list is applied as a validation rule for Job Title, Country, and Type selections, ensuring:
+    - 🎯 User inputs are limited to approved and consistent values
+    - 🚫 Invalid or inconsistent entries are automatically prevented
+    - 👥 Dashboard usability remains streamlined and error-resistant
+    - 🛡️ The worksheet is protected to safeguard validation rules and maintain the structural integrity of the dashboard.
 
 ## Conclusion
 
