@@ -67,22 +67,9 @@ The dataset used for this project contains real-world data science job informati
 
 ![Dashboard2.jpg](Resources/Dashboard2.jpg) 
 
-#### ⏰ Count of Job Schedule Type
-
-```
-=FILTER(J2#,(NOT(ISNUMBER(SEARCH("and",J2#))+ISNUMBER(SEARCH(",",J2#))))*(J2#<>0))
-```
-
-- 🔍 **Unique List Generation:** This Excel formula below employs the `FILTER()` function to exclude entries containing "and" or commas, and omit zero values.
-- 🔢 **Formula Purpose:** This formula populates the table below, which gives us a list of unique job schedule types.
-
-🍽️ Background Table
-
-![Dashboard3.jpg](Resources/Dashboard3.jpg)
-
 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="250" height="500" alt="Salary Dashboard Type">
+![Dashboard3.jpg](Resources/Dashboard3.jpg)
 
 ### ❎ Data Validation
 
